@@ -3,7 +3,7 @@ id: 2_rehousing
 title: Rehousing
 ---
 
-### Box Sizes
+## Box Sizes
 The size of the folders used determines the size of the box. The folder should fit snugly inside the box without the sides of the box crushing or bending the folder. If your folder is sliding around inside the box, it is too small for that size box. 
  
 **RC** = records carton. These are the large square boxes that have completely detachable lids. We typically use these boxes for offsite storage of office files.
@@ -21,16 +21,16 @@ Tube (no abbreviation). As a last resort for items that are too big for the flat
 This is a link to [another document.](doc3.md)  
 This is a link to an [external page.](http://www.example.com)
 
-### Mixed boxes
+## Mixed boxes
 Mixed boxes are used to hold material that takes up much less than a whole box. Mixed boxes are particularly helpful for housing oversized items if there are only a few of them in the collection. For instructions on adding material to a mixed box see “Workflow for: Archivists Toolkit Processes.”
 
-### Folders
+## Folders
 Use legal-size folders with legal-size boxes and letter-size folders with letter-size boxes; do not put letter-size folders in legal-size boxes. The folders will shift or slide during movement if there is significant space within the box, contributing to wear on the contents.
 
 Archival materials should not slump over in their folders. If they do, it means that there is too much empty space in the box. If there is a lot of room (several inches), empty slide boxes or foam may be inserted into the box. If there is less than several inches, a spacer can be constructed out of heavy weight acid-free paper or cardboard. If there is very little room and materials are still slumping over, creating dividers and placing them throughout the box is helpful for creating support, especially when the box contains materials of varying sizes and dimensions.
 
 Please note that we do not always transfer records into archival folders. This decision is made on a case-by-case basis depending on the age and condition of the records, among other factors. Do not transfer records into archival folders unless instructed to do so.
 
-### Box openings and folder orientations
+## Box openings and folder orientations
 
 

@@ -1,8 +1,8 @@
 {
   "docs": {
     "Processing": ["processing/1_overview"],
-    "Analog Material": ["processing/2_rehousing", "processing/3_labeling"],
-    "Digital Material": ["doc3"]
+    "Analog Material": ["processing/2_rehousing", "processing/3_labeling", "processing/4_formats", "processing/5_weeding"],
+    "Digital Material": ["processing/6_media_processing"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
