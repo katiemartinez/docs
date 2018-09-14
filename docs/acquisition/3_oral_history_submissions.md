@@ -1,6 +1,6 @@
 ---
-id: 2_born_digital
-title: Born Digital
+id: 3_oral_history_submissions
+title: Oral History Submissions
 ---
 
 ## Before Acquisition and Accession
