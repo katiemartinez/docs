@@ -1,5 +1,5 @@
 ---
-id: 2_born-digital
+id: 2_born_digital
 title: Born Digital
 ---
 

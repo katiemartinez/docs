@@ -5,6 +5,6 @@
     "Digital Material": ["processing/6_media_processing"]
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Archival Acquisition": ["acquisition/1_acquisition_overview", "acquisition/2_born_digital"]
   }
 }
