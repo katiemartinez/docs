@@ -1,7 +1,6 @@
 ---
-id: doc1
-title: Processing
-sidebar_label: Overview
+id: 1_overview
+title: Overview
 ---
 
 ## Introduction to Archival Processing

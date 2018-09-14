@@ -3,8 +3,6 @@ id: 2_rehousing
 title: Rehousing
 ---
 
-## Rehousing
-
 ### Box Sizes
 The size of the folders used determines the size of the box. The folder should fit snugly inside the box without the sides of the box crushing or bending the folder. If your folder is sliding around inside the box, it is too small for that size box. 
  
