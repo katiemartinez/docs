@@ -1,8 +1,8 @@
 {
   "docs": {
     "Processing": ["doc1"],
-    "Analog": ["doc2", "doc1"],
-    "Digital": ["doc3"]
+    "Analog Processing": ["doc2", "4_labeling"],
+    "Digital Processing": ["doc3"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
