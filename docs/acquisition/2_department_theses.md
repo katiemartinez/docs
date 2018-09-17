@@ -3,9 +3,7 @@ id: 2_department_theses
 title: Collecting Department Theses
 ---
 
-## Collecting Department Theses
-
-### Collect Permissions
+## Collect Permissions
 Notes: 
 When multiple students are associated with a thesis, they should only make one submission
 Students should not use personal emails, only TNS addresses
@@ -30,7 +28,7 @@ Glenn Shrum (shrumg@newschool.edu)
 Collect Files
 1. Coordinate with department contacts to transfer thesis files -- it is preferable that they bring the files on an external hard drive to archives office, but they can also be accepted via Google Drive.
 
-### Create records for unrestricted material
+## Create records for unrestricted material
 1. After all responses are submitted, download spreadsheet of responses created from the Google Form and save to corresponding Collections folder in K: Central Kellen share. 
 2. Create two duplicate spreadsheets of the submissions, saving both to K: Digital_accessions_to_be_processed. 
 One will contain submissions with restricted access until the following year.
@@ -45,7 +43,7 @@ Add links to the series record in CollectiveAccess from the series component in 
 Update the MASTER_Finding_Aid_TRACKING_CURRENT.xls doc 
 Copy files to both the preservation and access directories.
 
-### Format Data
+## Format Data
 During this stage, create a duplicate document of formatted data to be used for AT import 
 Column 1. Filename
 Title Format: CollectionID_Year_studentID [taken from New School email]
