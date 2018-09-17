@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: 'The New School', // Title for your website.
-  tagline: 'Digital Archives Documentation',
+  tagline: 'Archives & Special Collections Documentation',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -40,8 +40,8 @@ const siteConfig = {
   headerLinks: [
     {doc: 'acquisition/1_acquisition_overview', label: 'Acquisition'},
     {doc: 'processing/1_overview', label: 'Processing'},
-    {doc: 'description/1_description_overview', label: 'Description'},
-    {doc: 'access/1_access_overview', label: 'Access'},
+    {doc: 'description/1_overview', label: 'Description'},
+    {doc: 'access/1_overview', label: 'Access'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],

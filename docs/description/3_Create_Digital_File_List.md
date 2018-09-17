@@ -2,9 +2,6 @@
 id: 3_Create_Digital_File_List
 title: Create Digital File List
 ---
-
-## Create Digital File List
-
 Create a list of digital files that can be uploaded to Google Drive and linked from a finding aid.
 DROID makes PDFs that show directory tree, BUT Karen’s Directory Printer makes them more visually easy to read.
 
