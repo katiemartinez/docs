@@ -1,9 +1,7 @@
 ---
-id: 1_description_overview
+id: 1_overview
 title: Overview
 ---
-
-## Overview
 
 This manual provides guidelines for describing archival material in Archivist’s Toolkit. Each archival collection has a guide that provides information about the content and context of that collection. This guide is called a finding aid. 
 

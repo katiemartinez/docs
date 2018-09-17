@@ -1,17 +1,15 @@
 ---
-id: 7_scan_requests
-title: Scan Requests
+id: 11_scan_requests
+title: Overview
 ---
-
-## Overview
 Scan requests have alternate workflows, largely depending upon the number of scans being made for a job. If there are between 1 and 10 scans in a scan request, the Archivist who requests the scans is responsible for carrying out the upload(s) to CA. This can be done before or after supplying the image(s) to the Researcher, depending upon the circumstance (i.e., if providing a high-res file thru Dropbox, Archivist does not need to do the CA upload first; if supplying the jpg, Archivist could upload first and send a link to CA for the Researcher to download or put the jpg into Dropbox).
 
-### Between 1-10 scans:
+## Between 1-10 scans:
 1. Archivist requesting scans creates catalog record(s) in CA and uploads the file(s), unless files are large PDFs. If files are large PDFs, alert Digital Archivist that catalog record has been created and the file is ready for upload.
 2. Update Filemaker to indicate that file has been uploaded.
 3. Move access and preservation files to access and preservation folders.
 
-### More than 10 scans:
+## More than 10 scans:
 For scan requests involving more than 10 scans, files will be batch uploaded by the Digital Archivist. In these cases, a batch upload template needs to be created.
 
 1. Before scanning, Archivist creates a folder for the scan request in Digitized_from_Analog folder, prepares batch upload template for these scans, and puts template into this folder.
@@ -24,7 +22,7 @@ For scan requests involving more than 10 scans, files will be batch uploaded by 
 8. Moves access and preservation files to access and preservation folders.
 
 
-### Detailed Breakdown of Process
+## Detailed Breakdown of Process
 1. For each scan request, the researcher should complete required fields on the scan request flag:
 -Initials
 -Date

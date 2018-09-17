@@ -1,9 +1,7 @@
 ---
 id: 5_Digital_Material 
-title: Overview
+title: Digital Material
 ---
-
-## Digital Material
 
 The protocols for managing optical media and disks are still under review. At the moment, they are most fully described in Workflow: Hybrid and Born-Digital Collections_IN PROGRESS.
 

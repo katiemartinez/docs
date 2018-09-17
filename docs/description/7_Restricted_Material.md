@@ -1,9 +1,8 @@
 ---
 id: 7_Restricted_Material
-title: Overview
+title: Restricted material
 ---
 
-## Restricted material
 Items are determined to be restricted according to the guidelines described in our Confidentiality Policy.
 
 Create two identical separation sheets for each removed item, group of items, or folder.
@@ -18,12 +17,12 @@ If there are items removed from multiple folders in a collection, do not put eac
 If there are enough restricted folders to call for having a restricted box(es) for a single collection, number the box as the last box(es) in that collection. Place orange “RESTRICTED” stickers on the box.
 If there are not enough restricted folders to call for having a restricted box for a single collection, place restricted folders into a mixed restricted box.
 
-### For unprocessed and in-process collections
+## For unprocessed and in-process collections
 Include this as the last sentence of the summary note: “Access is provided to this unprocessed record group, but some files may be restricted. Please email archivist@newschool.edu for details.”
 Use bracketed [RESTRICTED] as part of collection/series/folder level title
 Place warning notice to archivist in Repository Processing Note
 
-### For processed or nearly-processed collections
+## For processed or nearly-processed collections
 Include this as the last sentence of the summary note: “Some files are restricted. Please email archivist@newschool.edu for details.”
 For files whose title contains a person’s name that also may violate a person’s privacy, remove that person’s name from the title and place it in the Repository Processing Note at that level. See confidentiality policy for info on length of restriction
 Example:    A file titled: “Jones, John. Grievance” should be retitled “Grievance”

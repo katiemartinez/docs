@@ -3,8 +3,6 @@ id: 2_Collection_Level
 title: Collection Level
 ---
 
-## Collection Level
-
 For collection-level records the following fields are required. This is called the “front matter” for the collection.
 
 Title
@@ -37,9 +35,9 @@ All of this information is recorded in Archivists’ Toolkit (AT). The following
 
 Each collection in AT has a resource record. The resource record has 4 tabs: “Basic Description,” “Names & Subjects,” “Notes Etc. & Deaccessions,” and “Finding Aid Data.” The most relevant tabs are “Basic Description” and “Notes Etc. & Deaccessions.”
 
-### Basic Description
+## Basic Description
 
-#### Title
+### Title
 
 **Institutional Collection Titles**
 
@@ -89,7 +87,7 @@ If a department or program has a title that is commonly abbreviated, include the
 Example: New School Office of Communications and External Affairs (CEA)
 Note: Keeping the abbreviation is useful for archives staff to search and easily identify material. When publishing the finding aid and putting it online, take out the abbreviation.
 
-#### Non-Institutional Collection Titles
+### Non-Institutional Collection Titles
 
 For a collection that was not created by a New School office, personnel, or was created by a New School-affiliated person for non-official New School purposes, a title should be created for the collection using the following two elements:
 Name(s) of creator
@@ -100,33 +98,33 @@ John R. Everett papers
 Bob Adelman photograph collection
 Note as with institutional collections that the word “collection” is appended to the title for collections assembled by someone other than the person/entity that created it.
 
-### Dates
+## Dates
 Archivists' Toolkit date expression or and date begin/end fields are used at the collection, series, subseries, and sub-subseries levels only, not at the individual folder title level. The date expression should match the inclusive dates and bulk dates at that level.
 
 At the collection level, inclusive dates must be included under “Inclusive Dates” in AT. Use bulk dates when the majority of the documents differ significantly from the inclusive dates. The information from the inclusive and bulk dates should be copied into the Date Expression field in the following format:
 Example:    1920-1999, bulk 1989-1999
 
-#### Inclusive date
+### Inclusive date
 Dates of the newest and oldest item in the collection. Note this does not refer to the earliest/latest dates mentioned in the material, rather the dates of the material itself.
 
-#### Bulk date
+### Bulk date
 A bulk date range is used at the collection/record group level only if the majority of material is from a date range significantly different than the inclusive dates. The bulk date is in addition to the inclusive date; it is never used on its own. For example, if the inclusive dates are 1920-2000 but most of the materials are from 1950-1980, include these as the bulk dates.
 
-#### Gaps
+### Gaps
 If there is a significant chronological gap (10 years or more) between described materials, separate dates with a comma (per DACS guidance 2.4.11; RAD1.4B2a). 
 
 Examples:    1941, 1952-1978
 1975, 2002
 1965-1978, 2001
 
-#### Estimated dates
+### Estimated dates
 When one of the dates is estimated, indicate that it is estimated in the date expression field   using “circa.” Do not abbreviate to “ca.” (per DACS 2.4.12). Never use brackets or question marks to express an estimated date. Use “probably” when the estimated date is more certain.
 Examples:    circa 1970-1979 [when earliest date uncertain]
 1970-circa 1979 [when latest date uncertain]
 circa 1970s-circa 1990s [when earliest and latest dates are uncertain; note, there is no apostrophe before the “s”]
 1970s [when dates are uncertain, but decade can be determined based upon context or intrinsic evidence; if the decade is certain, do not use “circa”]
 
-#### No dates
+### No dates
 Do not use “undated” at the collection level (“undated” is, however, occasionally used at the component level). Some form of date range can always be determined by examining the materials being described, reading contextual description (scope and content note or biographical note if one exists), or using reference materials to estimate dates. If you can establish a decade, use that decade instead of “undated.”
 Note: You may see “Undated” used in previously-processed collections; this was used when there no contextual clues could be found or when materials had been transferred from their original folder.
 Example:    Materials indicate they were created while Ronald Reagan was president. 
@@ -168,10 +166,10 @@ Streaming video: 1999
 U-matic/U-standard cassettes: 1971
 VHS cassettes: 1976
 
-### Language
+## Language
 Language refers to the language of the materials found in the collection. English is the default selection in AT. While you cannot select more than one language here, a separate Language of Materials note allows you to describe any other languages present in the materials.
 
-### Resource Identifier
+## Resource Identifier
 Resource identifiers are unique numbers assigned to each collection. Generally, they follow the format of this example: (NS.02.01.01).
 
 The first two letters (NS.02.01.01) denote the collection category to which the records belong:
@@ -210,8 +208,8 @@ NS.03.01.07  New School press release collection
 NS.03.01.08  New School Office of Public Information records
 Note: For some collections with the last two numbers .01, the number was used to denote collections that were inherited from predecessor archival holdings (i.e., Fogelman Library or Kellen Archives prior to 2008), as distinct from records formally accessioned by the Kellen Design Archives or TNS Archives--that is, material acquired post-2008). In the old numbering scheme, collections were assigned the suffix .01 (usually, Parsons collections with the words (pre-2008 in the title) to indicate that the collection is closed—that is, that no accreted materials from a department or program should be added to this collection. (The exception to this was when archivists determined that newly accreted material had originally been part of the pre-2008 group of records but was subsequently separated by a librarian or other staff member [by intention or happenstance]. In this instance materials were often integrated back into the group.)
 
-### Extent
-#### Calculating Extent and Number of Boxes
+## Extent
+### Calculating Extent and Number of Boxes
 Extent should generally be in linear feet, unless there is less than a box worth of material for the collection/record group. If the latter, Extent should be recorded as number of illustrations etc. or by number of folders.
 
 You can use an online calculator to determine linear feet from the number of boxes: http://beinecke.library.yale.edu/linear-footage-calculator or refer to the document called “box_sizes” saved here: K:\working_files\Central_Kellen_share\Procedures_Guidelines_Workflows_Policies\ArchivalRef_Tools
@@ -224,27 +222,27 @@ Example:    “: 2 boxes”
 In the exported finding aid, this formatting renders the text to appear in a phrase with the extent, [extent][:container summary]. For example, “20.6 linear ft: 9 boxes, 5 oversize boxes, 6 oversize folders.”
 When material in a MIX box occupies half or more than half of the box, it should be calculated into the Extent, and the box counted in the Container Summary. Otherwise, it is not included in the Extent. 
 
-#### Extent in analog audiovisual collections
+### Extent in analog audiovisual collections
 For analog audiovisual collections, the extent is expressed as the number of tapes or reels. In the Container Summary, indicate total duration--the sum of each recording in the collection. When PDF transcripts are included, as with oral history interviews, that information is conveyed in the Container Summary.
 Examples:    13 audiocassettes: 19:20:24 duration; 15 PDF transcripts 
 
 (Duration for individual recordings for both digital and analog material is indicated in the Container Summary at the component level.)
 
-#### Digital extent in digital-only collections
+### Digital extent in digital-only collections
 For collections consisting of solely digital media (digital audio and video recordings and/or digital image or digital textual files), the top-level extent is expressed in bytes. Here, the extent is the sum of all digital files in the collection. The Container Summary indicates the number of digital files comprising the collection.
 Example:    “14.17 gb.: 78 files.”
 
-#### Digital extent in hybrid digital/analog collections
+### Digital extent in hybrid digital/analog collections
 To indicate top-level extent for mixed analog-digital collection, use linear footage for analog portion and describe digital extent in container summary.
 Example:    “3.5 linear feet: 4 boxes; 464 mb consisting of 2,580 digital files”
 
-### Repository
+## Repository
 The name of the repository should be appropriate to that collection, and match the collection category denoted by the first two letters of the resource identifier (MA and MP collections should fall within the “Performing Arts Collection” repository. Click “Change Repository” to select the correct one.
 
-### Repository Processing Note
+## Repository Processing Note
 For publications, place note at collection level Repository Processing Note (the public one, not the internal Processing note) that TNSASC tries to collect 3 copies of each publication. If item is bound, do not count it as one of the copies. 
 
-### Notes
+## Notes
 In the “Notes Etc. & Deaccessions” tab of Archivists Toolkit, enter the following required notes:
 
 Biographical or Historical Note**
@@ -263,7 +261,7 @@ Summary
 All notes should follow The New School Archives style guide.
 
 
-#### Biographical/Historical Note
+### Biographical/Historical Note
 Biographical notes are used for people. Historical notes are used for companies, schools, institutions, etc. The title of this note auto populates in AT to read “Biographical OR Historical Note.” Delete the part of the title that doesn’t apply. For people the title should simply read “Biographical Note,” for example.
 
 The biographical/historical note should be two to three paragraphs, unless you cannot find any information about the person or corporation. Do not conduct extensive research to fill out this note. Information that is useful to include in this note are birth and death dates (even if the dates are already indicated in a name authority), educational and employment history, name changes (or reorganization of office for corporate records), honors and awards, and titles.
@@ -272,7 +270,7 @@ The purpose is to assist the researcher in making sense of the collection and �
 
 Cite all sources using Chicago Style. See section on citing sources.
 
-#### Scope & Content Note
+### Scope & Content Note
 The Scope and Content note informs the researcher what he/she can expect to find in the collection. Use this note to communicate information regarding different formats researchers will encounter and dates of creation, receipt, or aggregation. Here are some questions to consider as you write a Scope and Content Note:
 WHO created the collection: “created” is used loosely, here; it can mean assembled, collected, received, etc.
 WHY the collection was created: under what circumstances, for what purpose?
@@ -285,15 +283,15 @@ You can also use this note to advise researchers about what they will not find. 
 
 Imagine you are describing the collection to someone. What would you want them to know before they made a decision to come to the Kellen Archives for research? What information would you want to know about the collection and what would help you to plan your research efficiently?
 
-#### Summary
+### Summary
 The summary should be a few sentences long and explain briefly the person/organization that is the topic of the collection and the scope and contents of the collection. This information can be drawn from the Biographical/Historical note and the Scope & Content note.
 
-#### Immediate source of acquisition
+### Immediate source of acquisition
 State how the collection came to be in The New School Archives. Indicate whether the collection was donated or transferred, by whom, and what their relation is to the creator of the collection.The final part of the note should be the year in which it was donated.
 
 If the collection was created by someone in the library or archives (rather than the entity that created it) include the following note: The staff of the New School Archives and Special Collections assembled this collection from multiple office transfers.
 
-#### Arrangement
+### Arrangement
 For collections with more than one series it is mandatory to create an arrangement note. It is a not mandatory to add an arrangement note for collections with only one series, but it is still a good idea--simply add a phrase in the Arrangement Note describing the arrangement.
 Example:    Arranged chronologically.
 
@@ -309,32 +307,32 @@ Numeration: select UPPERROMAN
 Add item = [Series title], [date range]. Highlight this text, click “Wrap in tag” drop down menu and select “ref”; leave all fields blank except for Target: here, choose component from list for that series within the container list – this will create a hyperlink from the Series listed in the Arrangement note to the Series head in the Container List.
 Note: This function will only work if the series-level records are marked as “series” in the Level-field within collection inventory. If they are marked as “files,” this function will not work. 
 
-#### Conditions governing access
+### Conditions governing access
 This field auto-populates in Archivists Toolkit with the following: “Collection is open for research use. Please contact archivist@newschool.edu for appointment.” Very occasionally, we may need to add or alter this note.
 
-#### Conditions governing use
+### Conditions governing use
 This field auto-populates in Archivists Toolkit with the following: “To publish images of material from this collection, permission must be obtained in writing from the New School Archives and Special Collections. Please contact: archivist@newschool.edu.” Very occasionally, we may need to add or alter this note.
 
-#### Language of materials
+### Language of materials
 This field auto-populates in Archivists Toolkit with the following: “All materials in English.” Update to include other languages present in the collection if needed.
 
-#### Related archival collections
+### Related archival collections
 Include related collections held by The New School Archives and/or other repositories in a separate paragraph. Briefly describe what aspect of the cited collection relates. Use the following format: “The New School Archives holds the records/papers/etc. of ______ (collection #) which includes…; and the records/papers/etc. of ______ (collection #) which includes…”
 
-#### Preferred citation
+### Preferred citation
 This field auto-populates in Archivists Toolkit with the following: “[Identification of item], [date (if known)], [name of collection], [collection number], box __, folder __, New School Archives and Special Collections, The New School, New York, New York.” Update with the name of the collection and collection number.
 
-#### Other finding aids
+### Other finding aids
 This field exists to provide a link between the finding aid and digitized or born-digital materials in Collective Access. This is an example of this note:
 For selected item-level description and images from the [name of collection], see The New School Archives Digital Collections at http://digitalarchives.library.newschool.edu/index.php/Detail/collections/etc. [replace this with the URL for the collection’s page on the Digital Collections site].
 
 For instructions on creating a note in Other Finding Aids, see the manual Tools and How-Tos: Archivists' Toolkit Basics_IN PROGRESS
 
-### Names & Subjects
+## Names & Subjects
 
 In the Names & Subjects tab, add names and topics associated with the collection. The Library of Congress Subject Headings and the Library of Congress name authority file provide standardized versions of names and subjects (see http://id.loc.gov/authorities). Note that the lexicon of the Library of Congress is very specific and can be somewhat counter-intuitive, so it might take some getting used to.
 
-#### Names 
+### Names 
 In the top part of the window, add the names of people, organizations, corporations, institutions, etc. that are affiliated with the collection, either as creator of the materials, source of the materials, or as the subject of material. Every collection must have at least one name listed here as creator. All names of creators, including primary creators (named in the collection title), secondary creators, and named subjects should be included.
 
 To add a name click “Add Name Link” then enter the name next to “Filter.” Select the desired name and then from the drop down menu next to “Function” whether this entity is a creator, source, or subject in the collection. 

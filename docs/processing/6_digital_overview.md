@@ -1,6 +1,6 @@
 ---
-id: 6_media_processing
-title: Media Processing
+id: 6_digital_overview
+title: Overview
 ---
 ## Non-Removable Digital Material 
 Digital archivist performs fixity checks at moment of file transfer/download to shared drive. Preferable mode of transfer is via external hard drive, rather than Google docs, FTP, Dropbox, or email. 
