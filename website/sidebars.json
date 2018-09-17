@@ -1,14 +1,12 @@
 {
-  "docs": {
+  "docs-1": {
+    "Archival Acquisition": ["acquisition/1_acquisition_overview"],
+    "Digital": ["acquisition/2_department_theses", "acquisition/3_oral_history_submissions", "acquisition/4_event_recordings", "acquisition/5_web_collecting"]
+  },
+  "docs-2": {
     "Processing": ["processing/1_overview"],
     "Analog Material": ["processing/2_rehousing", "processing/3_labeling", "processing/4_formats", "processing/5_weeding"],
-    "Digital Material": ["processing/6_media_processing"]
-  },
-  "docs-other": {
-    "Archival Acquisition": ["acquisition/1_acquisition_overview"],
-    "Department Theses": ["acquisition/2_department_theses"],
-    "Oral History Submissions": ["acquisition/3_oral_history_submissions"], 
-    "Event Recordings": ["acquisition/4_event_recordings"], 
-    "Web Collecting": ["acquisition/5_web_collecting"]
+    "Digital Material": ["processing/6_media_processing"],
+    "Scan Requests": ["processing/7_scan_requests"]
   }
 }

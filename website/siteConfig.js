@@ -40,6 +40,8 @@ const siteConfig = {
   headerLinks: [
     {doc: 'acquisition/1_acquisition_overview', label: 'Acquisition'},
     {doc: 'processing/1_overview', label: 'Processing'},
+    {doc: 'description/1_description_overview', label: 'Description'},
+    {doc: 'access/1_access_overview', label: 'Access'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
