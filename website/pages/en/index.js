@@ -105,16 +105,16 @@ const Features = () => (
   <Block layout="fourColumn">
     {[
       {
-        content: 'This is the content of my feature',
+        content: '<strong>Interested in visiting the archive?</strong> Information for researchers and all interested parties can be found here.',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'top',
-        title: 'Feature One',
+        title: '<a href="docs/topics/2_Reference.html">Reference</a>',
       },
       {
-        content: 'The content of my second feature',
+        content: 'Learn more about our collecting policies.',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'top',
-        title: 'Feature Two',
+        title: 'Institutional Collecting',
       },
     ]}
   </Block>
@@ -124,7 +124,7 @@ const FeatureCallout = () => (
   <div
     className="productShowcaseSection paddingBottom"
     style={{textAlign: 'center'}}>
-    <h2>Feature Callout</h2>
+    <h2><a href="docs/topics/1_AT_Processes.html">Feature Callout</a></h2>
     <MarkdownBlock>These are features of this project</MarkdownBlock>
   </div>
 );
