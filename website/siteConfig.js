@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: 'The New School', // Title for your website.
-  tagline: 'Archives & Special Collections Documentation',
+  tagline: 'Archives and Special Collections Documentation',
   url: 'https://katiemartinez.github.io', // Your website URL
   baseUrl: '/docs/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
