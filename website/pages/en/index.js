@@ -105,7 +105,7 @@ const Features = () => (
   <Block layout="fourColumn">
     {[
       {
-        content: '<strong>Interested in visiting the archive?</strong> Information for researchers and all interested parties can be found here.',
+        content: '<strong>Interested in visiting the archive?</strong> Find information about our hours, policies and more.',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'top',
         title: '<a href="docs/topics/2_Reference.html">Reference</a>',
