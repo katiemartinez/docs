@@ -18,9 +18,6 @@ The size of the folders used determines the size of the box. The folder should f
 
 Tube (no abbreviation). As a last resort for items that are too big for the flat files, we will roll them up and store them in tubes. These are primarily used for posters.
 
-This is a link to [another document.](doc3.md)  
-This is a link to an [external page.](http://www.example.com)
-
 ## Mixed boxes
 Mixed boxes are used to hold material that takes up much less than a whole box. Mixed boxes are particularly helpful for housing oversized items if there are only a few of them in the collection. For instructions on adding material to a mixed box see [Archivists' Toolkit Processes.](topics/1_AT_processes.md)
 

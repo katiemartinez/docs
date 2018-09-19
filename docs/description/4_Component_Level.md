@@ -1,5 +1,5 @@
 ---
-id: 4_Component_Level
+id: 4_component_level
 title: Component-level Description
 ---
 
