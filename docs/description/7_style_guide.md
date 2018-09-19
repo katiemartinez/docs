@@ -1,5 +1,5 @@
 ---
-id: 8_Style_Guide
+id: 7_style_guide
 title: Style Guide
 ---
 

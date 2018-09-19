@@ -1,5 +1,5 @@
 ---
-id: 10_Export_Publish_Finding_Aid
+id: 9_export_publish_finding_aid
 title: Export and Publish Finding Aids 
 ---
 *Last Updated September 7, 2018*

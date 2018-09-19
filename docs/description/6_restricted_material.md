@@ -1,5 +1,5 @@
 ---
-id: 7_Restricted_Material
+id: 6_restricted_material
 title: Restricted material
 ---
 
