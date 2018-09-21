@@ -12,10 +12,11 @@
    "description": {
     "Description": ["description/1_overview"],
     "Archivists' Toolkit": ["description/2_AT_overview", "description/3_collection_level", "description/4_component_level", "description/5_digital_material", "description/6_restricted_material", "description/7_style_guide"], 
-    "Finding Aid": ["description/8_finding_aid_checklist", "description/9_export_publish_finding_aid"], 
-    "Collective Access": ["description/10_create_batch_metadata_CA"]
+    "Finding Aid": ["description/8_finding_aid_checklist", "description/9_export_publish_finding_aid"]
   }, 
    "access": {
-    "Access": ["access/1_overview", "access/2_CA_Imports"]
+    "Access": ["access/1_overview"], 
+    "Digitization": ["access/2_scan_tech_procedures", "access/3_digitize_standard_doc", "access/4_digitize_slides", "access/5_calibrate_scanner", "access/6_create_access_files"],
+    "Collective Access": ["access/7_batch_metadata_CA", "access/8_imports_CA", "access/9_batch_updates_CA"]
   }
 }
