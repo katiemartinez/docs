@@ -14,11 +14,11 @@ Notes
 CA ID
 
 2. Open Archivists’ Toolkit
-Navigate to ‘Resources’
-Search for Collection Title (collection title noted in Filemaker Pro)
-Select ‘Manage Locations’
-Take note of the box number location (box number noted in Filemaker Pro)
-Locate box and material in compact shelving 
+- Navigate to ‘Resources’
+- Search for Collection Title (collection title noted in Filemaker Pro)
+- Select ‘Manage Locations’
+- Take note of the box number location (box number noted in Filemaker Pro)
+- Locate box and material in compact shelving 
 
 ## Review Material to be Scanned 
 1. Check the ‘Notes’ section of Filemaker Pro to see if there are special instructions for scanning
