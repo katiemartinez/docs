@@ -17,6 +17,6 @@
    "access": {
     "Access": ["access/1_overview"], 
     "Digitization": ["access/2_scan_tech_procedures", "access/3_digitize_standard_doc", "access/4_digitize_slides", "access/5_calibrate_scanner", "access/6_create_access_files"],
-    "Collective Access": ["access/7_batch_metadata_CA", "access/8_imports_CA", "access/9_batch_updates_CA"]
+    "Collective Access": ["access/7_batch_metadata_CA", "access/8_imports_CA", "access/9_batch_updates_CA", "access/10_merge_delete_CA"]
   }
 }
